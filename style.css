@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.active{
+    display:none;
+}
+.rotate{
+    transform: rotate(180deg);
+}
+.para{
+    display: none;
+}
+section{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+.accord{
+    border: 1px solid black;
+}
+.accord-ques{
+    color: rgb(129, 77, 112);
+}
